@@ -25,9 +25,7 @@
 		System.out.println(G.hasEdge(2, 3));
 		System.out.println(G.hasEdge(1, 1));
 ```
-##4.1.24 Computation of number of connected Components,
-##size of largest component, and number of components 
-##size less than 10.
+##4.1.24 Computation of number of connected Components, size of largest component, and number of components size less than 10.
 ```
 	public static void main(String[] args) {
 		SymbolGraph sg = new SymbolGraph("F:/MISC/movies.txt", "/");
